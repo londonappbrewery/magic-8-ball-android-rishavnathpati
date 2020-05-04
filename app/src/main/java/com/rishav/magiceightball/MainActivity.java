@@ -1,4 +1,4 @@
-package com.londonappbrewery.magiceightball;
+package com.rishav.magiceightball;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
